@@ -1,0 +1,48 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+table, td, tr {
+    border: 4px solid;
+    border-color: #000554;
+    border-collapse: collapse;
+}
+
+.blue {
+    background: #0124B8;
+}
+
+.lightblue {
+    background: #425DFF;
+}
+
+.red {
+    background: #DD2C2F;
+}
+
+.lightred {
+    background: #FF5355;
+}
+
+.yellow {
+    background: #E5FF28;
+}
+
+.lightyellow {
+    background: #FFFA88;
+}
+
+.green {
+    background: #2DFF3A;
+}
+
+.lightgreen {
+    background: #75FF7E;
+}
